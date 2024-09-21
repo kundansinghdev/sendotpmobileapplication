@@ -1,7 +1,3 @@
-Here's a more effective version of your `README.md` with added clarity and structure, plus some emojis for a more modern and appealing touch:
-
----
-
 # 📲 Send OTP Mobile Application
 
 This is a Spring Boot application that sends and verifies OTPs using Twilio's Verify API. It demonstrates how to use Twilio to send SMS-based OTPs for user authentication, commonly used in login and registration workflows.
@@ -146,6 +142,3 @@ The application will start on `http://localhost:8080`.
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This version incorporates emojis for improved readability and appeal while keeping the same structure and information.
